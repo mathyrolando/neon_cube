@@ -1,6 +1,6 @@
 import * as THREE from "three";
 //import { MeshLine, MeshLineMaterial, MeshLineRaycast } from 'three.meshline';
-import {TrackballControls} from 'three/examples/jsm/controls/TrackballControls';
+import {TrackballControls} from 'three/addons/controls/TrackballControls.js';
 import {EffectComposer} from 'three/addons/postprocessing/EffectComposer.js';
 import {RenderPass} from 'three/addons/postprocessing/RenderPass.js';
 import {UnrealBloomPass} from 'three/addons/postprocessing/UnrealBloomPass.js';
